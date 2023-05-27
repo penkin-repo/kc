@@ -214,6 +214,7 @@ body {
 .navigation-footer .navigation__logo {
     color: var(--color-grey);
 }
+
 .navigation-footer .navigation__logo img {
     color: var(--color-grey);
 }
